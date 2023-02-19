@@ -12,6 +12,14 @@ Mindfulness and Meditation Tool: An app that offers guided meditation and mindfu
 Virtual Interior Designer: An app that uses augmented reality (AR) technology to help users visualize how furniture and decor would look in their home. Users could take a picture of a room and use the app to experiment with different furniture and decor options, allowing them to see how the space would look before making any purchases.
 
 
+
+
+
+
+
+
+
+
 Initial Prototype
 _______________________
 
